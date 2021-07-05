@@ -1,4 +1,4 @@
-.real-time {
+    .real-time {
     color: blue;
 }
 
@@ -31,3 +31,7 @@ section {
     font-weight: 700;
     border-radius: 20px;
 }
+
+.top-baner {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
