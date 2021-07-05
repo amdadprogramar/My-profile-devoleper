@@ -1,37 +1,44 @@
-    .real-time {
-    color: blue;
-}
-
-h1 {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 50px;
-}
-
-.real-color {
-    color: chartreuse;
-}
-
-section {
-    display: flex;
-}
-
-.half-width {
-    width: 50%;
-    padding: 9%;
-}
-
-.half-width img {
-    width: 90%;
-}
-
-.link-button {
-    text-decoration: none;
-    background-color: mediumspringgreen;
-    padding: 10px 40px;
-    font-weight: 700;
-    border-radius: 20px;
-}
-
-.top-baner {
-    background-image: url(top-banner.png);
-    background-repeat: no-repeat;
+        .real-time {
+            color: blue;
+        }
+        
+        h1 {
+            font-family: 'Roboto Mono', monospace;
+            font-size: 50px;
+        }
+        
+        .real-color {
+            color: chartreuse;
+        }
+        
+        section {
+            display: flex;
+        }
+        
+        .half-width {
+            width: 50%;
+            padding: 9%;
+        }
+        
+        .half-width img {
+            width: 90%;
+        }
+        
+        .link-button {
+            text-decoration: none;
+            background-color: mediumspringgreen;
+            background-image: linear-gradient(mediumspringgreen blue);
+            padding: 10px 40px;
+            font-weight: 700;
+            border-radius: 20px;
+        }
+        
+        .top-baner {
+            background-image: url(top-banner.png);
+            background-repeat: no-repeat;
+        }
+        
+        .dream-future {
+            background-image: url(exp-bg.png);
+            background-repeat: no-repeat;
+        }
